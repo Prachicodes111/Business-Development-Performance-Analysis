@@ -1,5 +1,7 @@
 # 📊 Business Development Analysis – Associate Performance Dashboard  
 
+![Dashboard Preview](dash_page-0001.jpg)
+
 ## 🌟 Overview  
 This project dives deep into **associate performance analytics** to uncover key trends, optimize productivity, and enhance business development strategies.  
 Leveraging **MySQL, Power BI, and Python**, I built an **interactive dashboard** that provides **real-time insights** into workforce efficiency.  
