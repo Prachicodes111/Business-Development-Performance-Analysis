@@ -15,10 +15,10 @@ Leveraging **MySQL, Power BI, and Python**, I built an **interactive dashboard**
 
 ---
 
-## 🛠 Tech Stack & Tools  
-- 🚀 **MySQL** – Data extraction & transformation  
-- 📊 **Power BI** – Interactive dashboard for real-time insights  
-- 🐍 **Python (Pandas, Matplotlib, Seaborn)** – Data analysis & visualization  
+## 🛠 Languages & Tools Used  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
 ---
 
