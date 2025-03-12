@@ -1,0 +1,3 @@
+
+*.sql linguist-detectable=true
+*.pbix linguist-detectable=true
